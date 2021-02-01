@@ -299,16 +299,16 @@ Total pendaftar: *${jumlahUser}*
 
 Berikut adalah menu yang tersedia:
 
-*[1]* Downloader
-*[2]* Bot
-*[3]* Misc
-*[4]* Sticker
-*[5]* Weeaboo
-*[6]* Fun
-*[7]* Moderation
-*[8]* NSFW
-*[9]* Owner
-*[10]* Leveling
+*┠➢* Downloader
+*┠➢* Bot
+*┠➢* Misc
+*┠➢* Sticker
+*┠➢* Weeaboo
+*┠➢* Fun
+*┠➢* Moderation
+*┠➢* NSFW
+*┠➢* Owner
+*┠➢* Leveling
 
 Ketik *${prefix}menu* angka_index untuk membuka menu page yang dipilih.
 
